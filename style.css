@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  background-color: #141414;
+  color: floralwhite;
+}
+
+input {
+  height: 25px;
+  width: 200px;
+  padding: 10px;
+  border: 2px solid orange;
+  border-radius: 5px;
+  background-color: #141414;
+  color: floralwhite;
+  font-size: 13px;
+}
+
+a {
+  color: #76bb40;
+  text-decoration: none;
+}
+
+button {
+  background-color: #0b0724;
+  color: floralwhite;
+  border: 2px solid orange;
+  border-radius: 5px;
+  padding: 5px 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  transition: 1000ms;
+  padding: 10px 50px;
+  transform: translateY(-0px);
+  background-color: #0b0724;
+  color: floralwhite;
+  border: solid 4px orange;
+}
+select {
+  background-color: #001141;
+  border: 2px solid orange;
+  color: floralwhite;
+}
